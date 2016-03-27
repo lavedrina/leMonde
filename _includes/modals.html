@@ -1,0 +1,104 @@
+
+{% for post in site.posts %}
+<div class="portfolio-modal modal fade" id="{{ post.modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>{{ post.title }}</h2>
+                        <hr class="star-primary">
+                        <img src="https://voxe.s3.amazonaws.com/candidates/{{ post.modalID }}-300.jpg" class="img-responsive img-centered" alt="">
+						
+						<nav>
+<div class="container-fluid">
+
+						{{ post.content }}
+
+<h2>Programme par thème</h2>
+
+ {% for nom in site.data.Presidentielles2012.response.election.tags %}
+ <div class="row">
+     
+			<div class="col-lg btn-default">
+				<a href="#{{ nom.namespace }}-{{ post.modalID }}" class="btn btn-sm">
+				<img src="{{ nom.icon.prefix }}{{ nom.icon.sizes[0] }}{{ nom.icon.name }}" class="img-responsive img-centered" alt="">
+				<p><strong>{{ nom.name }}</strong></p></a>
+			</div>
+</div>
+<style>
+.btn-default{
+background-color: rgb(255,255,255)
+}
+.btn-default:hover{
+background-color: rgb(149,165,166)
+}
+</style>
+    {% endfor %}
+</nav>
+
+
+
+	 {% for nom in site.data.Presidentielles2012.response.election.tags %}
+						 <div class="catbloc" id="{{ nom.namespace }}-{{ post.modalID }}">
+						  <div class="row">
+						  <div class="col-lg-8 col-lg-offset-2">
+							 <h3>{{ nom.name }}</h3>
+							 </div>
+							   <div class="col-lg-8 col-lg-offset-2">
+								 <ol class="d">
+								   {% for sub in nom.tags %}
+								   <li>
+								   <h5 class="customLink-{{ sub.position }}" style="cursor: pointer;">{{ sub.name }}</h5>
+								    </li>
+								   {% for subSub in sub.tags %}
+										   <div class="test-{{ sub.position }}" style="display: none;">
+											<h6>{{ subSub.name }}</h6>
+											<p> Proposition sur le thème de <i>{{ subSub.name }}</i> </p>
+										   </div>
+										    
+									{% endfor %}
+									<script src="/js/jquery.js"></script>
+									<script language="JavaScript" type="text/javascript">
+									$('.customLink-{{ sub.position }}').click(function(){
+									$('.test-{{ sub.position }}').toggle(10, function(){
+		
+										})
+									});
+
+									</script>
+									{% endfor %}
+									
+										 </div>
+
+								 </ol>
+							 </div>
+							 </div>
+
+						 {% endfor %}
+ </div>
+						
+                        <ul class="list-inline item-details">
+                            <li>Groupe politique :
+                                <strong>{{ post.category }}
+                                    </strong>
+                            </li>
+                            <li>Date:
+                                <strong>{{ post.date | date: "%B %Y" }}
+                                    </strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

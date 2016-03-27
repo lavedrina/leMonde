@@ -1,0 +1,29 @@
+<!-- Portfolio Grid Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Candidats</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {% for candidats in site.data.Presidentielles2012.response.election.candidacies %}
+                    <div class="col-sm-4 portfolio-item">
+					{% for post in site.posts %}
+					{% if post.modalID == candidats.namespace %}
+                        <a href="#{{ post.modalID }}" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="https://voxe.s3.amazonaws.com/candidates/{{ candidats.namespace }}-300.jpg"class="img-responsive" alt="">
+                        </a>
+					{% endif %}
+					{% endfor %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

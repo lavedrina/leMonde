@@ -1,0 +1,1937 @@
+{
+response: {
+election: {
+id: "4f16fe2299c7a10001000012",
+name: "Election présidentielle France 2012",
+namespace: "election-presidentielle-france-2012",
+published: true,
+date: "2012-04-22",
+tags: [
+{
+id: "4ef479f9bc60fb0004000098",
+name: "Économie et emploi",
+namespace: "economie-et-emploi",
+position: 518,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-economie-et-emploi_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479f9bc60fb000400009a",
+name: "Emploi",
+namespace: "Emploi",
+position: 298,
+tags: [
+{
+id: "4ef479f9bc60fb000400009c",
+name: "Droit et conditions de travail",
+namespace: "Droit-du-travail",
+position: 581
+},
+{
+id: "4ef479f9bc60fb000400009e",
+name: "Chômage",
+namespace: "Chômage",
+position: 145
+},
+{
+id: "4ef479f9bc60fb00040000a0",
+name: "Salaires et rémunérations",
+namespace: "Salaires-et-revenus",
+position: 696
+},
+{
+id: "4ef479f9bc60fb00040000a2",
+name: "Emploi des jeunes",
+namespace: "Les-jeunes",
+position: 809
+},
+{
+id: "4ef479f9bc60fb00040000a4",
+name: "Emploi des seniors",
+namespace: "Les-séniors",
+position: 255
+},
+{
+id: "4ef479f9bc60fb00040000a6",
+name: "Temps de travail",
+namespace: "Temps-de-travail",
+position: 875
+},
+{
+id: "4ef479f9bc60fb00040000a8",
+name: "Partenaires sociaux",
+namespace: "Les-syndicats",
+position: 335
+}
+]
+},
+{
+id: "4ef479f9bc60fb00040000aa",
+name: "Economie",
+namespace: "Economie",
+position: 750,
+tags: [
+{
+id: "4ef479f9bc60fb00040000ac",
+name: "Grandes Entreprises",
+namespace: "Grandes-Entreprises",
+position: 460
+},
+{
+id: "4ef479f9bc60fb00040000ae",
+name: "Consommation et pouvoir d’achat",
+namespace: "Pouvoir-d’achat",
+position: 170
+},
+{
+id: "4ef479f9bc60fb00040000b0",
+name: "Compétitivité et coût du travail",
+namespace: "Qualification-et-innovation",
+position: 813
+},
+{
+id: "4ef479f9bc60fb00040000b2",
+name: "TPE, PME et entreprises de taille intermédiaire",
+namespace: "PME",
+position: 471
+},
+{
+id: "4ef479f9bc60fb00040000b4",
+name: "Concurrence",
+namespace: "Concurrence",
+position: 656
+},
+{
+id: "4ef479f9bc60fb00040000b6",
+name: "Commerce international",
+namespace: "Délocalisations",
+position: 45
+},
+{
+id: "4ef479f9bc60fb00040000bc",
+name: "Economie verte",
+namespace: "Economie-et-développement-durable",
+position: 447
+},
+{
+id: "4f17029399c7a10001000032",
+name: "Banques et régulation financière",
+namespace: "banques-et-finance-internationale",
+position: 5
+},
+{
+id: "4f1702a299c7a10001000034",
+name: "Création, patrimoine et financement des entreprises",
+namespace: "creation-d-entreprise",
+position: 129
+}
+]
+},
+{
+id: "4ef479f9bc60fb00040000be",
+name: "Finances",
+namespace: "Etat",
+position: 670,
+tags: [
+{
+id: "4ef479f9bc60fb00040000c0",
+name: "Finances et déficit public",
+namespace: "Finances-publiques",
+position: 700
+},
+{
+id: "4ef479f9bc60fb00040000c2",
+name: "Fiscalité des particuliers",
+namespace: "Impôts-des-particuliers",
+position: 30
+},
+{
+id: "4ef479f9bc60fb00040000c4",
+name: "Investissements publics",
+namespace: "Aide-publique",
+position: 427
+},
+{
+id: "4ef479f9bc60fb00040000c6",
+name: "Administration",
+namespace: "Administration",
+position: 838
+},
+{
+id: "4ef479f9bc60fb00040000c8",
+name: "Fiscalité des entreprises",
+namespace: "Impôts-sur-les-sociétés",
+position: 783
+},
+{
+id: "4ef479f9bc60fb00040000ca",
+name: "Politique monétaire",
+namespace: "Dettes-de-l’Etat",
+position: 331
+}
+]
+}
+]
+},
+{
+id: "4ef479f8bc60fb0004000002",
+name: "Politique Etrangère",
+namespace: "politique-etrangere",
+position: 583,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-politique-etrangere_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479f8bc60fb0004000004",
+name: "Quelle politique étrangère ?",
+namespace: "Quelle-politique-étrangère-?",
+position: 663,
+tags: [
+{
+id: "4ef479f8bc60fb0004000006",
+name: "Posture diplomatique",
+namespace: "Politique-générale",
+position: 883
+},
+{
+id: "4ef479f8bc60fb0004000008",
+name: "Français à l’étranger",
+namespace: "Les-français-à-l’étranger",
+position: 431
+}
+]
+},
+{
+id: "4ef479f8bc60fb000400000c",
+name: "Mondialisation",
+namespace: "Mondialisation",
+position: 405,
+tags: [
+{
+id: "4ef479f8bc60fb000400000e",
+name: "Gérer la mondialisation",
+namespace: "Gérer-la-mondialisation",
+position: 584
+},
+{
+id: "4ef479f8bc60fb0004000010",
+name: "Institutions internationales",
+namespace: "Institutions-internationales",
+position: 921
+}
+]
+},
+{
+id: "4ef479f8bc60fb0004000012",
+name: "Coopération & développement",
+namespace: "Aides-au-développement",
+position: 722,
+tags: [
+{
+id: "4ef479f8bc60fb0004000014",
+name: "Priorités et actions",
+namespace: "Priorités-et-actions",
+position: 172
+},
+{
+id: "4ef479f8bc60fb0004000016",
+name: "Actions régionales",
+namespace: "Régions-du-monde-concernées",
+position: 946
+},
+{
+id: "4ef479f8bc60fb0004000018",
+name: "Gestion",
+namespace: "Gestion",
+position: 185
+},
+{
+id: "4ef479f8bc60fb000400001c",
+name: "Institutions",
+namespace: "Institutions",
+position: 476
+}
+]
+},
+{
+id: "4ef479f8bc60fb0004000020",
+name: "Afrique",
+namespace: "Afrique",
+position: 13,
+tags: [
+{
+id: "4ef479f8bc60fb0004000022",
+name: "Politique africaine",
+namespace: "Politique-africaine",
+position: 399
+}
+]
+},
+{
+id: "4ef479f8bc60fb0004000026",
+name: "Proche-Orient",
+namespace: "Proche-Orient",
+position: 928,
+tags: [
+{
+id: "4ef479f8bc60fb0004000028",
+name: "Politique au Proche-Orient",
+namespace: "Politique-au-Proche-Orient",
+position: 129
+}
+]
+},
+{
+id: "4f1704ff99c7a1000100004a",
+name: "Asie",
+namespace: "asie",
+position: 331,
+tags: [
+{
+id: "4f17050e99c7a1000100004c",
+name: "Politique",
+namespace: "politique",
+position: 119
+}
+]
+}
+]
+},
+{
+id: "4ef479f9bc60fb0004000052",
+name: "Education et Recherche",
+namespace: "education-et-recherche",
+position: 680,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-education-et-recherche_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479f9bc60fb0004000054",
+name: "Sport",
+namespace: "Le-sport",
+position: 529,
+tags: [
+{
+id: "4ef479f9bc60fb0004000056",
+name: "Moyen de la politique sportive",
+namespace: "10-budget",
+position: 22
+},
+{
+id: "4ef479f9bc60fb000400005a",
+name: "Accès à une activité sportive",
+namespace: "30-acces-a-une-activite-sportive",
+position: 592
+},
+{
+id: "4ef479f9bc60fb000400005e",
+name: "Fédérations sportives",
+namespace: "50-federations-sportives",
+position: 216
+},
+{
+id: "4ef479f9bc60fb0004000062",
+name: "Sport de haut niveau",
+namespace: "80-sport-de-haut-niveau",
+position: 209
+}
+]
+},
+{
+id: "4ef479f9bc60fb0004000068",
+name: "Ecole, collège, lycée",
+namespace: "Education-secondaire",
+position: 336,
+tags: [
+{
+id: "4ef479f9bc60fb000400006a",
+name: "Élèves défavorisés et ZEP",
+namespace: "les-zep",
+position: 18
+},
+{
+id: "4ef479f9bc60fb000400006c",
+name: "Orientation",
+namespace: "orientation",
+position: 28
+},
+{
+id: "4ef479f9bc60fb000400006e",
+name: "Enseignement privé",
+namespace: "enseignement-prive",
+position: 837
+},
+{
+id: "4ef479f9bc60fb0004000070",
+name: "Violence à l'école",
+namespace: "la-violence-a-l-ecole",
+position: 716
+},
+{
+id: "4ef479f9bc60fb0004000072",
+name: "Formation professionnelle",
+namespace: "les-parcours-professionnels",
+position: 937
+},
+{
+id: "4ef479f9bc60fb0004000074",
+name: "Evaluation de l'éducation et carte scolaire",
+namespace: "evaluation-de-l-education-et-carte-scolaire",
+position: 580
+},
+{
+id: "4ef479f9bc60fb0004000076",
+name: "Méthodes d'enseignement et contenu",
+namespace: "les-methodes-d-enseignement",
+position: 339
+},
+{
+id: "4ef479f9bc60fb0004000078",
+name: "Vie associative, cuturelle et sportive",
+namespace: "vie-associative-cuturelle-et-sportive",
+position: 490
+},
+{
+id: "4ef479f9bc60fb000400007a",
+name: "Handicap et discrimination positive",
+namespace: "handicap-et-discrimination-positive",
+position: 846
+},
+{
+id: "4ef479f9bc60fb000400007c",
+name: "Aide aux élèves",
+namespace: "aide-aux-eleves",
+position: 272
+},
+{
+id: "4ef479f9bc60fb000400007e",
+name: "Organisation de l'éducation nationale",
+namespace: "Réformes-de-l'éducation-nationale",
+position: 663
+}
+]
+},
+{
+id: "4ef479f9bc60fb0004000080",
+name: "Enseignement supérieur et recherche",
+namespace: "Recherche-et-enseignement-supérieur",
+position: 212,
+tags: [
+{
+id: "4ef479f9bc60fb0004000082",
+name: "Aides financières et budget",
+namespace: "aides-financieres-et-budget",
+position: 480
+},
+{
+id: "4ef479f9bc60fb0004000084",
+name: "Rapprochement entre universités et grandes écoles",
+namespace: "rapprochement-entre-universites-et-grandes-ecoles",
+position: 223
+},
+{
+id: "4ef479f9bc60fb0004000086",
+name: "Orientation des étudiants",
+namespace: "orientation-des-etudiants",
+position: 66
+},
+{
+id: "4ef479f9bc60fb0004000088",
+name: "Réformes de l’enseignement supérieur",
+namespace: "reformes-de-l-enseignement-superieur",
+position: 953
+},
+{
+id: "4ef479f9bc60fb000400008a",
+name: "Filières professionnelles",
+namespace: "filieres-professionnelles",
+position: 37
+},
+{
+id: "4ef479f9bc60fb000400008c",
+name: "Stages",
+namespace: "les-stages",
+position: 737
+},
+{
+id: "4ef479f9bc60fb000400008e",
+name: "Travai et vie étudiante",
+namespace: "les-conditions-de-travail-des-etudiants",
+position: 418
+},
+{
+id: "4ef479f9bc60fb0004000090",
+name: "Recherche dans l'enseignement supérieur",
+namespace: "la-recherche-dans-l-enseignement-superieur",
+position: 993
+},
+{
+id: "4ef479f9bc60fb0004000092",
+name: "Recherche dans les entreprises",
+namespace: "la-recherche-dans-les-entreprises",
+position: 659
+},
+{
+id: "4ef479f9bc60fb0004000094",
+name: "Recherche publique",
+namespace: "la-recherche-publique",
+position: 455
+},
+{
+id: "4ef479f9bc60fb0004000096",
+name: "Recherche & Développement",
+namespace: "recherche-developpement",
+position: 243
+}
+]
+}
+]
+},
+{
+id: "4ef479f8bc60fb000400002a",
+name: "Numérique, Culture et Médias",
+namespace: "culture-et-medias",
+position: 402,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-culture-et-medias_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479f8bc60fb000400002c",
+name: "Numérique",
+namespace: "Nouvelles-technologies",
+position: 736,
+tags: [
+{
+id: "4ef479f8bc60fb000400002e",
+name: "Economie numérique",
+namespace: "Internet",
+position: 124
+},
+{
+id: "4ef479f8bc60fb0004000030",
+name: "Société et libertés numériques",
+namespace: "Logiciels-libres",
+position: 411
+}
+]
+},
+{
+id: "4ef479f8bc60fb0004000032",
+name: "Politique culturelle",
+namespace: "Politique-culturelle",
+position: 73,
+tags: [
+{
+id: "4ef479f8bc60fb0004000034",
+name: "Art, culture et patrimoine",
+namespace: "En-Europe",
+position: 720
+},
+{
+id: "4ef479f8bc60fb0004000036",
+name: "Décentralisation et accès à la culture",
+namespace: "Dans-le-monde",
+position: 803
+},
+{
+id: "4ef479f9bc60fb0004000038",
+name: "Libertés Numériques",
+namespace: "En-France",
+position: 732
+},
+{
+id: "4ef479f9bc60fb000400003c",
+name: "Créations culturelles",
+namespace: "Créations-culturelles",
+position: 60
+},
+{
+id: "4ef479f9bc60fb000400003e",
+name: "Europe et international",
+namespace: "Education-et-culture",
+position: 249
+}
+]
+},
+{
+id: "4ef479f9bc60fb0004000040",
+name: "Médias",
+namespace: "Médias",
+position: 450,
+tags: [
+{
+id: "4ef479f9bc60fb0004000044",
+name: "Indépendance et régulation des médias",
+namespace: "Presse",
+position: 995
+},
+{
+id: "4ef479f9bc60fb0004000048",
+name: "Organes de presse",
+namespace: "Cinéma",
+position: 23
+}
+]
+},
+{
+id: "4ef479f9bc60fb000400004a",
+name: "Médias publics",
+namespace: "Télévision-publique",
+position: 249,
+tags: [
+{
+id: "4ef479f9bc60fb000400004c",
+name: "Financement des médias publics",
+namespace: "9-budget",
+position: 811
+},
+{
+id: "4ef479f9bc60fb0004000050",
+name: "Mission des médias publics",
+namespace: "20-mission",
+position: 815
+}
+]
+}
+]
+},
+{
+id: "4ef479fcbc60fb0004000204",
+name: "Europe",
+namespace: "europe",
+position: 671,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-europe_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479fcbc60fb0004000206",
+name: "Institutions et fonctionnement",
+namespace: "Institutions-et-fonctionnement",
+position: 363,
+tags: [
+{
+id: "4ef479fcbc60fb0004000208",
+name: "Traité constitutionnel",
+namespace: "Traité-constitutionnel-?",
+position: 4
+},
+{
+id: "4ef479fcbc60fb000400020a",
+name: "Banque Centrale Européenne",
+namespace: "Banque-Centrale-Européenne",
+position: 569
+},
+{
+id: "4ef479fcbc60fb000400020c",
+name: "Fonctionnement de l'Union",
+namespace: "Fonctionnement-de-l'Union",
+position: 973
+}
+]
+},
+{
+id: "4ef479fcbc60fb000400020e",
+name: "Adhésions à l’Union",
+namespace: "Adhésions-à-l’Union",
+position: 609,
+tags: [
+{
+id: "4ef479fcbc60fb0004000212",
+name: "Elargissement",
+namespace: "Elargissement",
+position: 811
+}
+]
+},
+{
+id: "4ef479fcbc60fb0004000222",
+name: "Politiques de l’Union",
+namespace: "Politiques-de-l’Union",
+position: 417,
+tags: [
+{
+id: "4ef479fcbc60fb0004000224",
+name: "Budget de l’UE",
+namespace: "Budget-de-l’Union",
+position: 425
+},
+{
+id: "4ef479fcbc60fb0004000226",
+name: "Politique de défense de l'UE",
+namespace: "Défense-de-l'Union",
+position: 254
+},
+{
+id: "4ef479fcbc60fb0004000228",
+name: "Education",
+namespace: "Education",
+position: 519
+},
+{
+id: "4ef479fcbc60fb000400022c",
+name: "Environnement et énergie",
+namespace: "Environnement-et-énergie",
+position: 660
+},
+{
+id: "4ef479fcbc60fb000400022e",
+name: "Recherche",
+namespace: "Recherche",
+position: 338
+},
+{
+id: "4ef479fcbc60fb0004000232",
+name: "Politique sociale de l'UE",
+namespace: "Politique-Sociale-de-l'Union",
+position: 478
+},
+{
+id: "4ef479fcbc60fb0004000236",
+name: "Relations extérieures",
+namespace: "Politique-de-Sécurité-de-l'Union",
+position: 848
+},
+{
+id: "4ef479fcbc60fb0004000238",
+name: "Politique générale de l'UE",
+namespace: "Politique-générale-de-l'Union",
+position: 753
+}
+]
+},
+{
+id: "4ef479fcbc60fb0004000214",
+name: "Politique économique",
+namespace: "Politique-économique",
+position: 632,
+tags: [
+{
+id: "4ef479fcbc60fb0004000216",
+name: "Croissance, marché commun et compétitivité",
+namespace: "Croissance-et-compétitivité",
+position: 307
+},
+{
+id: "4ef479fcbc60fb0004000218",
+name: "Services publics",
+namespace: "Services-publics",
+position: 18
+},
+{
+id: "4ef479fcbc60fb000400021a",
+name: "Zone euro",
+namespace: "Zone-euro",
+position: 908
+},
+{
+id: "4ef479fcbc60fb000400021c",
+name: "Pacte de stabilité",
+namespace: "Pacte-de-stabilité",
+position: 89
+},
+{
+id: "4ef479fcbc60fb000400021e",
+name: "Relations commerciales",
+namespace: "Mise-en-place",
+position: 907
+},
+{
+id: "4ef479fcbc60fb0004000220",
+name: "Fiscalité",
+namespace: "Fiscalité",
+position: 266
+}
+]
+}
+]
+},
+{
+id: "4ef479f9bc60fb00040000cc",
+name: "Justice, Sécurité et Défense",
+namespace: "justice-securite-et-defense",
+position: 80,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-justice-securite-et-defense_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479f9bc60fb00040000ce",
+name: "Justice",
+namespace: "Justice",
+position: 624,
+tags: [
+{
+id: "4ef479f9bc60fb00040000d0",
+name: "Indépendance de la justice",
+namespace: "Réforme-de-la-justice",
+position: 317
+},
+{
+id: "4ef479f9bc60fb00040000d2",
+name: "Organisation et moyen de la justice",
+namespace: "Moyens",
+position: 130
+},
+{
+id: "4ef479f9bc60fb00040000d4",
+name: "Détention et situation des prisons",
+namespace: "Prisons",
+position: 395
+},
+{
+id: "4f1ad08caeef4e0001000035",
+name: "Peines et alternatives",
+namespace: "Victimes",
+position: 859
+}
+]
+},
+{
+id: "4ef479f9bc60fb00040000d6",
+name: "Sécurité",
+namespace: "Sécurité",
+position: 39,
+tags: [
+{
+id: "4ef479f9bc60fb00040000d8",
+name: "Orientation de la politique de sécurité",
+namespace: "Délinquance",
+position: 180
+},
+{
+id: "4ef479f9bc60fb00040000da",
+name: "Effectifs et moyens",
+namespace: "Police",
+position: 162
+},
+{
+id: "4ef479f9bc60fb00040000dc",
+name: "Prévention de la délinquance",
+namespace: "Politique-de-sécurité",
+position: 291
+}
+]
+},
+{
+id: "4ef479fabc60fb00040000de",
+name: "Défense nationale",
+namespace: "La-défense-nationale",
+position: 528,
+tags: [
+{
+id: "4ef479fabc60fb00040000e0",
+name: "Politique de défense",
+namespace: "Politique-de-défense",
+position: 875
+},
+{
+id: "4ef479fabc60fb00040000e2",
+name: "Moyens de la défense",
+namespace: "Moyens-de-la-Défense",
+position: 218
+},
+{
+id: "4ef479fabc60fb00040000e4",
+name: "Dissuasion nucléaire",
+namespace: "Nucléaire",
+position: 899
+},
+{
+id: "4ef479fabc60fb00040000e6",
+name: "Afghanistan",
+namespace: "L'Europe",
+position: 306
+},
+{
+id: "4ef479fabc60fb00040000e8",
+name: "OTAN et relations transatlantiques",
+namespace: "Statut-des-militaires",
+position: 370
+},
+{
+id: "4ef479fabc60fb00040000ea",
+name: "Politique industrielle de défense",
+namespace: "Autres",
+position: 741
+}
+]
+}
+]
+},
+{
+id: "4ef479fabc60fb00040000ec",
+name: "Environnement, agriculture, énergie et transport",
+namespace: "environnement-et-agriculture",
+position: 625,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-environnement-et-agriculture_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479fabc60fb00040000ee",
+name: "Fiscalité écologique",
+namespace: "Fiscalité-écologique",
+position: 556,
+tags: [
+{
+id: "4ef479fabc60fb00040000f0",
+name: "Taxes écologiques",
+namespace: "Taxes",
+position: 254
+},
+{
+id: "4ef479fabc60fb00040000f2",
+name: "Crédit d'impôt écologique",
+namespace: "Crédit-d'impôts",
+position: 797
+}
+]
+},
+{
+id: "4ef479fabc60fb0004000100",
+name: "Développement durable",
+namespace: "La-protection-de-l'environnement",
+position: 56,
+tags: [
+{
+id: "4ef479fabc60fb0004000102",
+name: "Emission de CO2",
+namespace: "10-rechauffement-climatique",
+position: 482
+},
+{
+id: "4ef479fabc60fb0004000104",
+name: "Biodiversité",
+namespace: "20-biodiversite",
+position: 703
+},
+{
+id: "4ef479fabc60fb0004000106",
+name: "Efficacité énergétique",
+namespace: "30-education-et-sensibilisation",
+position: 368
+},
+{
+id: "4ef479fabc60fb0004000108",
+name: "Autres actions",
+namespace: "40-autres-actions",
+position: 144
+}
+]
+},
+{
+id: "4ef479fabc60fb0004000112",
+name: "Agriculture et pêche",
+namespace: "L’agriculture",
+position: 97,
+tags: [
+{
+id: "4ef479fabc60fb0004000114",
+name: "Modèle agroalimentaire",
+namespace: "20-recherche-et-ogm",
+position: 52
+},
+{
+id: "4ef479fabc60fb0004000116",
+name: "Agriculteurs et exploitations",
+namespace: "30-un-nouvel-elan",
+position: 379
+},
+{
+id: "4ef479fabc60fb0004000118",
+name: "Pêche et chasse",
+namespace: "40-la-peche-et-la-chasse",
+position: 773
+},
+{
+id: "4ef479fabc60fb000400011a",
+name: "Politique agricole commune",
+namespace: "50-la-pac-et-l-europe",
+position: 990
+}
+]
+},
+{
+id: "4ef479fabc60fb00040000f4",
+name: "Energie et transport",
+namespace: "Energie",
+position: 650,
+tags: [
+{
+id: "4ef479fabc60fb00040000f6",
+name: "Energie nucléaire",
+namespace: "20-nucleaire",
+position: 37
+},
+{
+id: "4ef479fabc60fb00040000f8",
+name: "Energies renouvelables",
+namespace: "10-energies-renouvelables",
+position: 593
+},
+{
+id: "4ef479fabc60fb00040000fa",
+name: "Politique énergétique",
+namespace: "30-edf",
+position: 365
+},
+{
+id: "4ef479fabc60fb00040000fc",
+name: "Transports, territoires et infrastructure",
+namespace: "100-politique-de-transport",
+position: 56
+},
+{
+id: "4ef479fabc60fb00040000fe",
+name: "Grands projets de transport",
+namespace: "1-propositions",
+position: 188
+}
+]
+}
+]
+},
+{
+id: "4ef479fabc60fb000400011c",
+name: "Société, Immigration et Famille",
+namespace: "societe-immigration-et-famille",
+position: 374,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-societe-immigration-et-famille_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479fabc60fb000400011e",
+name: "Personnes handicapées",
+namespace: "Personnes-handicapées",
+position: 979,
+tags: [
+{
+id: "4ef479fabc60fb0004000120",
+name: "Droits des handicapés",
+namespace: "Accès-à-l'école",
+position: 577
+},
+{
+id: "4ef479fabc60fb0004000122",
+name: "Emploi des handicapés",
+namespace: "Droits",
+position: 86
+},
+{
+id: "4ef479fabc60fb0004000124",
+name: "Allocations et compensations",
+namespace: "Allocations-et-compensations",
+position: 968
+},
+{
+id: "4ef479fabc60fb0004000126",
+name: "Accessibilité",
+namespace: "Autres-mesures",
+position: 189
+}
+]
+},
+{
+id: "4ef479fabc60fb0004000128",
+name: "Femmes",
+namespace: "Les-femmes",
+position: 574,
+tags: [
+{
+id: "4ef479fabc60fb000400012a",
+name: "Contraception et IVG",
+namespace: "Contraception-et-IVG",
+position: 377
+},
+{
+id: "4ef479fabc60fb000400012c",
+name: "Violences faites aux femmes",
+namespace: "Violences-faites-aux-femmes",
+position: 752
+},
+{
+id: "4ef479fabc60fb000400012e",
+name: "Vie des femmes",
+namespace: "Vie-des-femmes",
+position: 208
+},
+{
+id: "4ef479fabc60fb0004000134",
+name: "Mères",
+namespace: "Mères",
+position: 234
+},
+{
+id: "4ef479fabc60fb0004000136",
+name: "Egalité et parité",
+namespace: "Egalité-et-parité",
+position: 208
+}
+]
+},
+{
+id: "4ef479fabc60fb0004000138",
+name: "Immigration",
+namespace: "Immigration",
+position: 15,
+tags: [
+{
+id: "4ef479fabc60fb000400013a",
+name: "Législation",
+namespace: "Législation",
+position: 754
+},
+{
+id: "4ef479fabc60fb000400013c",
+name: "Immigration et politique extérieure",
+namespace: "L'immigration-et-la-politique-extérieure",
+position: 511
+},
+{
+id: "4ef479fabc60fb000400013e",
+name: "Immigration illégale",
+namespace: "L’immigration-illégale",
+position: 925
+},
+{
+id: "4ef479fabc60fb0004000140",
+name: "Contrôle de l’immigration",
+namespace: "Le-contrôle-de-l’immigration",
+position: 577
+},
+{
+id: "4ef479fbbc60fb0004000142",
+name: "Réforme de l'administration",
+namespace: "Réformer-l'administration",
+position: 773
+},
+{
+id: "4ef479fbbc60fb0004000144",
+name: "Acquisition de la nationalité",
+namespace: "Rôle-des-femmes",
+position: 459
+},
+{
+id: "4ef479fbbc60fb0004000146",
+name: "Intégration d'origine étrangère",
+namespace: "L'intégration",
+position: 780
+}
+]
+},
+{
+id: "4ef479fbbc60fb0004000148",
+name: "Famille",
+namespace: "Famille",
+position: 387,
+tags: [
+{
+id: "4ef479fbbc60fb000400014a",
+name: "Aide à la parentalité",
+namespace: "Aide-à-la-parentalité",
+position: 924
+},
+{
+id: "4ef479fbbc60fb000400014c",
+name: "Petite enfance",
+namespace: "Encadrement-de-la-petite-enfance",
+position: 138
+},
+{
+id: "4ef479fbbc60fb000400014e",
+name: "Congé parental",
+namespace: "Congé-parental",
+position: 724
+},
+{
+id: "4ef479fbbc60fb0004000150",
+name: "Fiscalité familiale",
+namespace: "Aides-fiscales",
+position: 121
+},
+{
+id: "4ef479fbbc60fb0004000152",
+name: "Aides aux personnes âgées",
+namespace: "Aides-aux-personnes-âgées",
+position: 922
+},
+{
+id: "4ef479fbbc60fb0004000154",
+name: "Union civile et mariage",
+namespace: "Le-mariage,-le-PACS,-l’adoption-et-les-couples-homosexuels",
+position: 796
+},
+{
+id: "4ef479fbbc60fb0004000156",
+name: "Autre",
+namespace: "Autre",
+position: 231
+}
+]
+},
+{
+id: "4ef479fbbc60fb0004000158",
+name: "Religion et laïcité",
+namespace: "Religion-et-laïcité",
+position: 34,
+tags: [
+{
+id: "4ef479fbbc60fb000400015a",
+name: "Religions",
+namespace: "Religions",
+position: 928
+},
+{
+id: "4ef479fbbc60fb000400015c",
+name: "Laïcité",
+namespace: "Laïcité",
+position: 978
+}
+]
+}
+]
+},
+{
+id: "4ef479fbbc60fb00040001b4",
+name: "Services publics et Territoires",
+namespace: "territoires-et-services-publics",
+position: 759,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-territoires-et-services-publics_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479fbbc60fb00040001b6",
+name: "Etat et services publics",
+namespace: "Les-services-publics",
+position: 142,
+tags: [
+{
+id: "4ef479fbbc60fb00040001b8",
+name: "Modernisation de l'Etat",
+namespace: "Le-service-minimum",
+position: 853
+},
+{
+id: "4ef479fbbc60fb00040001ba",
+name: "Fonction publique",
+namespace: "Gestion-des-services-publics",
+position: 673
+},
+{
+id: "4ef479fbbc60fb00040001bc",
+name: "Entreprises et services publiques",
+namespace: "Le-rôle-de-l’Etat",
+position: 357
+},
+{
+id: "4ef479fbbc60fb00040001be",
+name: "Service minimum",
+namespace: "Les-agents-publics",
+position: 266
+}
+]
+},
+{
+id: "4ef479fbbc60fb00040001c0",
+name: "Aménagement du territoire",
+namespace: "Territoires",
+position: 429,
+tags: [
+{
+id: "4ef479fbbc60fb00040001c2",
+name: "Politique de la ville",
+namespace: "Politique-de-la-ville",
+position: 353
+},
+{
+id: "4ef479fbbc60fb00040001c4",
+name: "Espaces ruraux",
+namespace: "Politique-rurale",
+position: 741
+},
+{
+id: "4ef479fbbc60fb00040001c6",
+name: "Outre-mer",
+namespace: "Outre-mer",
+position: 294
+}
+]
+}
+]
+},
+{
+id: "4ef479fcbc60fb00040001c8",
+name: "Solidarité, Santé et Logement",
+namespace: "solidarite-sante-et-logement",
+position: 979,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-solidarite-sante-et-logement_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479fcbc60fb00040001ca",
+name: "Solidarité",
+namespace: "Solidarité",
+position: 257,
+tags: [
+{
+id: "4ef479fcbc60fb00040001cc",
+name: "Minimas sociaux",
+namespace: "30-les-minimas-sociaux",
+position: 390
+},
+{
+id: "4ef479fcbc60fb00040001ce",
+name: "Protection sociale",
+namespace: "40-les-retraites",
+position: 253
+},
+{
+id: "4ef479fcbc60fb00040001d0",
+name: "Personnes âgées",
+namespace: "50-les-personnes-agees",
+position: 147
+},
+{
+id: "4ef479fcbc60fb00040001d2",
+name: "Monde associatif",
+namespace: "60-le-monde-associatif-et-benevole",
+position: 803
+},
+{
+id: "4ef479fcbc60fb00040001d4",
+name: "Quartiers difficiles",
+namespace: "70-les-quartiers-difficiles",
+position: 950
+},
+{
+id: "4ef479fcbc60fb00040001d6",
+name: "Économie sociale et solidaire",
+namespace: "80-l-economie-sociale",
+position: 320
+},
+{
+id: "4ef479fcbc60fb00040001d8",
+name: "Service civique et valeurs républicaines",
+namespace: "90-le-service-civique-obligatoire",
+position: 202
+},
+{
+id: "4ef479fcbc60fb00040001da",
+name: "L'organisation du système de solidarité",
+namespace: "85-l-organisation-du-systeme-de-solidarite",
+position: 532
+}
+]
+},
+{
+id: "4ef479fcbc60fb00040001dc",
+name: "La santé",
+namespace: "La-santé",
+position: 642,
+tags: [
+{
+id: "4ef479fcbc60fb00040001de",
+name: "Organisation du système de santé",
+namespace: "10-les-jeunes",
+position: 623
+},
+{
+id: "4ef479fcbc60fb00040001e0",
+name: "Accès aux soins",
+namespace: "20-le-travail",
+position: 249
+},
+{
+id: "4ef479fcbc60fb00040001e2",
+name: "Professions médicales",
+namespace: "30-les-territoires",
+position: 108
+},
+{
+id: "4ef479fcbc60fb00040001e4",
+name: "Recherche médicale",
+namespace: "40-le-systeme-de-sante",
+position: 787
+},
+{
+id: "4ef479fcbc60fb00040001e6",
+name: "L’évaluation du système de santé",
+namespace: "50-l-evaluation-du-systeme-de-sante",
+position: 886
+},
+{
+id: "4ef479fcbc60fb00040001e8",
+name: "Parcours de soins et médicaments",
+namespace: "60-l-orientation-des-patients",
+position: 607
+},
+{
+id: "4ef479fcbc60fb00040001ea",
+name: "Autonomie et fin de vie",
+namespace: "70-la-gestion-de-fin-de-vie",
+position: 280
+},
+{
+id: "4ef479fcbc60fb00040001ec",
+name: "Drogue et addiction",
+namespace: "80-les-drogues-douces",
+position: 454
+},
+{
+id: "4ef479fcbc60fb00040001ee",
+name: "La recherche",
+namespace: "90-la-recherche",
+position: 718
+},
+{
+id: "4ef479fcbc60fb00040001f0",
+name: "La prévention",
+namespace: "91-la-prevention",
+position: 59
+},
+{
+id: "4ef479fcbc60fb00040001f2",
+name: "Conditions de travail des médecins",
+namespace: "92-conditions-de-travail-des-medecins",
+position: 426
+}
+]
+},
+{
+id: "4ef479fcbc60fb00040001f6",
+name: "Logement",
+namespace: "Le-logement",
+position: 208,
+tags: [
+{
+id: "4ef479fcbc60fb00040001f8",
+name: "Accession à la propriété",
+namespace: "10-le-financement-de-la-propriete",
+position: 577
+},
+{
+id: "4ef479fcbc60fb00040001fa",
+name: "Logements sociaux",
+namespace: "20-les-logements-sociaux",
+position: 763
+},
+{
+id: "4ef479fcbc60fb00040001fc",
+name: "Logement locatif",
+namespace: "30-le-logement-locatif",
+position: 412
+},
+{
+id: "4ef479fcbc60fb00040001fe",
+name: "Aides au logement",
+namespace: "40-les-aides-au-logement",
+position: 228
+},
+{
+id: "4ef479fcbc60fb0004000202",
+name: "Politique du logement",
+namespace: "60-la-politique-de-logement",
+position: 32
+}
+]
+}
+]
+},
+{
+id: "4ef479fbbc60fb000400015e",
+name: "Constitution et Institutions",
+namespace: "les-institutions",
+position: 572,
+icon: {
+prefix: "https://voxe.s3.amazonaws.com/tags/v2-les-institutions_",
+sizes: [
+32,
+64
+],
+name: ".png"
+},
+tags: [
+{
+id: "4ef479fbbc60fb0004000160",
+name: "Président de la République",
+namespace: "Le-Président-de-la-République",
+position: 135,
+tags: [
+{
+id: "4ef479fbbc60fb0004000164",
+name: "Mandat",
+namespace: "Mandat",
+position: 86
+},
+{
+id: "4ef479fbbc60fb0004000166",
+name: "Statut pénal",
+namespace: "Statut-pénal",
+position: 864
+}
+]
+},
+{
+id: "4ef479fbbc60fb000400016a",
+name: "Parlement",
+namespace: "Le-Parlement-(Sénat-et-Assemblée-Nationale)",
+position: 743,
+tags: [
+{
+id: "4ef479fbbc60fb0004000176",
+name: "Statut du parlementaire",
+namespace: "Statut-de-parlementaire",
+position: 212
+},
+{
+id: "4ef479fbbc60fb000400017a",
+name: "Rôle et fonctionnement du Parlement",
+namespace: "Rôle-du-Parlement",
+position: 407
+}
+]
+},
+{
+id: "4ef479fbbc60fb0004000184",
+name: "Assemblée nationale",
+namespace: "Assemblée-nationale",
+position: 74,
+tags: [
+{
+id: "4ef479fbbc60fb0004000188",
+name: "Election des députés",
+namespace: "Election-des-députés",
+position: 324
+}
+]
+},
+{
+id: "4ef479fbbc60fb000400018c",
+name: "Gouvernement",
+namespace: "Le-Gouvernement",
+position: 335,
+tags: [
+{
+id: "4ef479fbbc60fb0004000192",
+name: "Fonctionnement",
+namespace: "Fonctionnement",
+position: 74
+}
+]
+},
+{
+id: "4ef479fbbc60fb0004000194",
+name: "Collectivités territoriales",
+namespace: "Collectivités-territoriales",
+position: 235,
+tags: [
+{
+id: "4ef479fbbc60fb0004000196",
+name: "Décentralisation",
+namespace: "Décentralisation",
+position: 363
+},
+{
+id: "4ef479fbbc60fb0004000198",
+name: "Organisation",
+namespace: "Organisation",
+position: 178
+}
+]
+},
+{
+id: "4ef479fbbc60fb000400019a",
+name: "Modifications institutionnelles",
+namespace: "Modifications-institutionnelles",
+position: 288,
+tags: [
+{
+id: "4ef479fbbc60fb000400019c",
+name: "Modalités",
+namespace: "Sous-quelle-forme-?",
+position: 473
+},
+{
+id: "4ef479fbbc60fb000400019e",
+name: "Modifications de la Constitution",
+namespace: "Modifications-de-la-Constitution",
+position: 547
+}
+]
+},
+{
+id: "4ef479fbbc60fb00040001a2",
+name: "Les autres institutions",
+namespace: "Les-autres-institutions",
+position: 891,
+tags: [
+{
+id: "4ef479fbbc60fb00040001a6",
+name: "Conseil constitutionnel",
+namespace: "Conseil-constitutionnel",
+position: 934
+},
+{
+id: "4ef479fbbc60fb00040001a8",
+name: "Autres institutions",
+namespace: "Autres-institutions",
+position: 472
+}
+]
+},
+{
+id: "4ef479fbbc60fb00040001aa",
+name: "Elections et participation citoyenne",
+namespace: "Elections",
+position: 42,
+tags: [
+{
+id: "4ef479fbbc60fb00040001ae",
+name: "Vote blanc",
+namespace: "Vote-blanc",
+position: 425
+},
+{
+id: "4ef479fbbc60fb00040001b0",
+name: "Modalités de vote",
+namespace: "Modalités-de-vote",
+position: 590
+},
+{
+id: "4ef479fbbc60fb00040001b2",
+name: "Statut de l'élu",
+namespace: "Statut-de-l'élu",
+position: 920
+}
+]
+}
+]
+}
+],
+candidacies: [
+{
+id: "4f188a59f8104a0001000004",
+published: true,
+namespace: "francois-hollande",
+candidates: [
+{
+id: "4f188a58f8104a0001000003",
+namespace: "francois-hollande",
+firstName: "François",
+lastName: "Hollande",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/francois-hollande-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/francois-hollande-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/francois-hollande-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f1888a75c664f0001000117",
+published: true,
+namespace: "nicolas-sarkozy",
+candidates: [
+{
+id: "4ef479fdbc60fb0004000264",
+namespace: "nicolas-sarkozy",
+firstName: "Nicolas",
+lastName: "Sarkozy",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/nicolas-sarkozy-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/nicolas-sarkozy-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/nicolas-sarkozy-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f1ec52e6e27d70001000007",
+published: true,
+namespace: "nathalie-arthaud",
+candidates: [
+{
+id: "4f1ec52d997d28000100000b",
+namespace: "nathalie-arthaud",
+firstName: "Nathalie",
+lastName: "Arthaud / LO",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/nathalie-arthaud LO -50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/nathalie-arthaud LO -100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/nathalie-arthaud LO -300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f1eddf96e27d7000100008b",
+published: true,
+namespace: "francois-bayrou",
+candidates: [
+{
+id: "4ef479fdbc60fb000400026e",
+namespace: "francois-bayrou",
+firstName: "François",
+lastName: "Bayrou",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/francois-bayrou-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/francois-bayrou-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/francois-bayrou-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f2c143202b7400005000029",
+published: true,
+namespace: "jacques-cheminade",
+candidates: [
+{
+id: "4f298b733f56cd0008000014",
+namespace: "jacques-cheminade",
+firstName: "Jacques",
+lastName: "Cheminade",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/jacques-cheminade-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/jacques-cheminade-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/jacques-cheminade-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f1888db5c664f0001000119",
+published: true,
+namespace: "nicolas-dupont-aignan",
+candidates: [
+{
+id: "4f1888db5c664f0001000118",
+namespace: "nicolas-dupont-aignan",
+firstName: "Nicolas",
+lastName: "Dupont-Aignan / DLF",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/nicolas-dupont-aignan DLF-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/nicolas-dupont-aignan DLF-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/nicolas-dupont-aignan DLF-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f1887545c664f000100010f",
+published: true,
+namespace: "eva-joly",
+candidates: [
+{
+id: "4f1887545c664f000100010e",
+namespace: "eva-joly",
+firstName: "Eva",
+lastName: "Joly",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/eva-joly-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/eva-joly-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/eva-joly-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f1888945c664f0001000116",
+published: true,
+namespace: "marine-le-pen",
+candidates: [
+{
+id: "4f1491280bc89a0001000002",
+namespace: "marine-le-pen",
+firstName: "Marine",
+lastName: "Le Pen",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/marine-le-pen-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/marine-le-pen-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/marine-le-pen-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f188a20f8104a0001000002",
+published: true,
+namespace: "jean-luc-melenchon",
+candidates: [
+{
+id: "4f188a20f8104a0001000001",
+namespace: "jean-luc-melenchon",
+firstName: "Jean-Luc",
+lastName: "Mélenchon",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/jean-luc-melenchon-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/jean-luc-melenchon-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/jean-luc-melenchon-300.jpg"
+}
+}
+}
+}
+]
+},
+{
+id: "4f1ec53e997d28000100000d",
+published: true,
+namespace: "philippe-poutou",
+candidates: [
+{
+id: "4f1ec53d997d28000100000c",
+namespace: "philippe-poutou",
+firstName: "Philippe",
+lastName: "Poutou",
+photo: {
+sizes: {
+small: {
+url: "https://voxe.s3.amazonaws.com/candidates/philippe-poutou-50.jpg"
+},
+medium: {
+url: "https://voxe.s3.amazonaws.com/candidates/philippe-poutou-100.jpg"
+},
+large: {
+url: "https://voxe.s3.amazonaws.com/candidates/philippe-poutou-300.jpg"
+}
+}
+}
+}
+]
+}
+],
+country: {
+name: "France",
+namespace: "france"
+}
+}
+}
+}

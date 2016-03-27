@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "François Bayrou"
+date:   2016-02-02 15:08:10 -0500
+img: img/portfolio/francois-bayrou-300.png
+modalID: francois-bayrou
+category: Politique
+---
+
+<nav>
+<div class="container-fluid">
+<h2>Programme par thème</h2>
+
+ {% for nom in site.data.Presidentielles2012.response.election.tags %}
+ <div class="row">
+            <div class="col-lg-1">
+				<a href="#{{ nom.namespace }}"><img src="{{ nom.icon.prefix }}{{ nom.icon.sizes[0] }}{{ nom.icon.name }}" class="img-responsive img-centered" alt=""></a>
+			</div>
+			<div class="col-lg-11">
+				<li><a href="#{{ nom.namespace }}"><strong>{{ nom.name }}</strong></a></li>
+			</div>
+</div>
+    {% endfor %}
+</nav>
+
+
+
+	 {% for nom in site.data.Presidentielles2012.response.election.tags %}
+						 <div class="catbloc" id="{{ nom.namespace }}">
+						  <div class="row">
+						  <div class="col-lg-8 col-lg-offset-2">
+							 <h3>{{ nom.name }}</h3>
+							 </div>
+							   <div class="col-lg-8 col-lg-offset-2">
+								 <ol class="d">
+								   {% for sub in nom.tags %}
+								   <h5>{{ sub.name }}</h5>
+								   {% for subSub in sub.tags %}
+										   <li>
+											<h6>{{ subSub.name }}</h6>
+											<p> Proposition sur le thème de <i>{{ subSub.name }}</i> </p>
+										  </li>
+									{% endfor %}
+									{% endfor %}
+										 </div>
+
+								 </ol>
+							 </div>
+							 </div>
+
+						 {% endfor %}
+ </div>

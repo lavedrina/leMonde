@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Nathalie Arthaud"
+date:   2016-02-02 15:08:10 -0500
+img: img/portfolio/nathalie-arthaud-300.png
+modalID: nathalie-arthaud
+category: LO
+---

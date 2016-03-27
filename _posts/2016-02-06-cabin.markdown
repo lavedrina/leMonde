@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Marine Le Pen"
+date:   2016-02-06 15:08:10 -0500
+modalID: marine-le-pen
+category: Front National
+---
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav navbar-right">
+
+{% for cate in site.data.Presidentielles2012.response.election.tags %}
+
+    <li class="dropdown">
+    <a href="{{ site.url }}{{ cate.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ cate.name }}<i class="fa fa-angle-rightwards"></i></a>
+    <ul class="dropdown-menu">
+    {% for sub in cate.tags %}
+    <li><a href="#{{ cate.namespace }}-{{ post.modalID }}">{{ sub.name }}</a></li>
+    </ul>    {% endfor %}
+
+
+    </li>
+    {% endfor %}
+    </ul>
+    </div><!-- /.navbar-collapse -->
